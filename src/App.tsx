@@ -9,7 +9,7 @@ function App() {
       <TodoInput />
       <TodoList />
     </main>
-  )
+  );
 }
 
 export default App;
